@@ -1,6 +1,6 @@
 # Customer Segmentation Project
 
-![Customer Segmentation](https://image.freepik.com/free-photo/businessman-pointing-financial-report_53876-29556.jpg)
+![Customer Segmentation](https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/03/customer-segmentation-in-banking.jpg)
 
 ## Introduction
 
@@ -14,12 +14,28 @@ Customer segmentation is a pivotal strategy for businesses aiming to understand 
 - **Interpretation and Profiling**: Understand the characteristics and behaviors of each customer segment.
 - **Validation and Implementation**: Evaluate the effectiveness of segmentation and implement personalized strategies.
 
-## Libraries Used
+## Key Insights
 
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
+- **Total Customers by Income Band**: Insights into customer socioeconomic diversity, guiding targeted marketing and tailored product offerings.
+
+- **Total Customers by Banking Type**: Understanding and catering to the unique needs of personal and business banking segments, enhancing customer satisfaction.
+
+- **Total Customers by Banking Relationship and Sex**: Tailoring customer experiences based on demographics within different banking relationships, fostering personalized services.
+
+- **Total Customers by City**: Geographical distribution of customers, informing location-based marketing strategies and service offerings.
+
+- **Total Customers by Relationship Time Frame**: Insights into customer loyalty and engagement levels, enabling personalized retention strategies.
+
+- **Total Financial Totals by Banking Relationship**: Understanding financial behaviors across banking relationships, guiding product development and pricing strategies.
+
+## Required Libraries
+
+- [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
+- [Matplotlib](https://matplotlib.org/stable/users/installing.html)
+- [Seaborn](https://seaborn.pydata.org/installing.html)
+- [Scikit-learn](https://scikit-learn.org/stable/install.html)
+
+Please follow the links for each library to view their respective installation guides.
 
 ## How to Contribute
 
@@ -35,3 +51,9 @@ Contributions to this project are highly encouraged! If you have ideas for impro
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+Special thanks to [OpenAI](https://openai.com) for providing the ChatGPT model that assisted in developing this project.
+
+![Contributing](https://image.freepik.com/free-vector/hand-drawn-people-analyzing-data_52683-44996.jpg)
