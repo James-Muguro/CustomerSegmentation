@@ -51,6 +51,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-We extend our special thanks to [OpenAI](https://openai.com) for providing the ChatGPT model that assisted in the development of this project.
+We extend our deepest gratitude to all who have made this project possible. Our special thanks go to the [OpenAI](https://openai.com) ChatGPT model and [Microsoft Copilot](https://copilot.github.com/), whose instrumental roles in debugging and refining the project’s code and documentation significantly contributed to the development of our project.
 
-![Contributing](https://image.freepik.com/free-vector/hand-drawn-people-analyzing-data_52683-44996.jpg)
+Our peers deserve our sincere appreciation for their insightful feedback and constructive critiques throughout the project's development. Their unique perspectives and experiences have been instrumental in steering our project towards its successful completion.
+
+Lastly, we acknowledge that this project would not have been achievable without the intellectual and technical contributions of the Python community worldwide. Their groundbreaking work has opened up new possibilities, and for that, we are profoundly grateful.
